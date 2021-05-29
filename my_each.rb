@@ -1,4 +1,4 @@
-array = ['hi', 'hello', 'bye', 'goodbye']
+#array = ['hi', 'hello', 'bye', 'goodbye']
 
 def my_each(array)
   i = 0
@@ -11,4 +11,4 @@ def my_each(array)
 end
 
 
-p my_each(array) { |i| puts i }
+#p my_each(array) { |i| puts i }

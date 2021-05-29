@@ -1,5 +1,3 @@
-
-
 def my_each(array)
   i = 0
   
@@ -9,4 +7,3 @@ def my_each(array)
   end
   array
 end
-

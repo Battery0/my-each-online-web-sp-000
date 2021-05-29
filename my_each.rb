@@ -9,3 +9,6 @@ def my_each(array)
   end
   array
 end
+
+
+#p my_each(array) { |i| puts i }

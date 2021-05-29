@@ -11,4 +11,4 @@ def my_each(array)
 end
 
 
-p my_each(array)
+p my_each(array) { |i| puts i }
